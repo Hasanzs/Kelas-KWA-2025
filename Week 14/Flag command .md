@@ -1,4 +1,3 @@
----
 
 # **Write-up Challenge: Flag Command (HackTheBox)**
 
@@ -10,9 +9,6 @@ Pada challenge **Flag Command**, kita diberikan sebuah web-terminal interaktif y
 
 <img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/d5046338-df08-40d2-9f31-f1cbeb7c938c" />
 
-
-
----
 
 ## **2. Observasi Awal**
 
